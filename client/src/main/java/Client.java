@@ -7,7 +7,7 @@ public class Client {
 
   public static void main(String[] args) {
 	  System.out.println("main");
-	  log.info("main7");
+	  log.info("main8");
   }
 
 }
